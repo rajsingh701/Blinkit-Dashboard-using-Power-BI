@@ -9,74 +9,74 @@ In this project, I created a comprehensive Power BI dashboard that helps users u
 ## Data Source:
 The data used for this project is sourced from Kaggle's publicly available Blinkit dataset, which includes detailed information about:
 
-Orders: Information on individual orders placed by customers.
+• **Orders:** Information on individual orders placed by customers.
 
-Products: Details about various products, including category and pricing.
+• **Products:** Details about various products, including category and pricing.
 
-Customers: Data about customers including their demographics and purchasing behaviors.
+• **Customers:** Data about customers including their demographics and purchasing behaviors.
 
-Delivery: Insights into delivery times, completion rates, and delivery personnel performance.
+• **Delivery:** Insights into delivery times, completion rates, and delivery personnel performance.
 
 ## Key Features of the Blinkit Dashboard:
 
-**Sales Performance Analysis:**
+1. **Sales Performance Analysis:**
 
-Visualizations that display total sales, revenue over time, and sales trends by category or region.
+• Visualizations that display total sales, revenue over time, and sales trends by category or region.
 
-Monthly, weekly, and daily breakdowns of sales to identify peak periods and opportunities for promotions or improvements.
+• Monthly, weekly, and daily breakdowns of sales to identify peak periods and opportunities for promotions or improvements.
 
-A geographical map to show sales distribution across different locations.
+• A geographical map to show sales distribution across different locations.
 
-**Customer Insights:**
+2. **Customer Insights:**
 
-Analysis of customer demographics, including age, gender, and location.
+• Analysis of customer demographics, including age, gender, and location.
 
-Tracking of customer retention and churn rates.
+• Tracking of customer retention and churn rates.
 
-Identification of high-value customers and customer segmentation based on purchasing behavior.
+• Identification of high-value customers and customer segmentation based on purchasing behavior.
 
-**Product Performance:**
+3. **Product Performance:**
 
-Product-wise sales analysis, including top-performing products and categories.
+• Product-wise sales analysis, including top-performing products and categories.
 
-Breakdown of product sales by factors like quantity sold, revenue, and margins.
+• Breakdown of product sales by factors like quantity sold, revenue, and margins.
 
-A dynamic filter to allow users to analyze product performance across different categories, seasons, and timeframes.
+• A dynamic filter to allow users to analyze product performance across different categories, seasons, and timeframes.
 
-**Delivery Insights:**
+4. **Delivery Insights:**
 
-Metrics such as average delivery time, delivery completion rate, and the performance of different delivery personnel.
+• Metrics such as average delivery time, delivery completion rate, and the performance of different delivery personnel.
 
-Correlation analysis between delivery time and customer satisfaction or return rates.
+• Correlation analysis between delivery time and customer satisfaction or return rates.
 
-**Interactive Filters and Drill-Downs:**
+5. **Interactive Filters and Drill-Downs:**
 
-The dashboard includes interactive features like slicers and drill-down capabilities, allowing users to explore the data in more detail.
+• The dashboard includes interactive features like slicers and drill-down capabilities, allowing users to explore the data in more detail.
 
-Users can filter the data by various parameters such as region, customer demographics, time period, and product categories.
+• Users can filter the data by various parameters such as region, customer demographics, time period, and product categories.
 
-**Key Performance Indicators (KPIs):**
+6. **Key Performance Indicators (KPIs):**
 
-Display of essential KPIs like average order value, total revenue, customer retention rates, and delivery efficiency on the dashboard for quick decision-making.
+• Display of essential KPIs like average order value, total revenue, customer retention rates, and delivery efficiency on the dashboard for quick decision-making.
 
 ## Dashboard Interactivity:
-**Power BI's interactive features allow users to explore the data dynamically:**
+• **Power BI's interactive features allow users to explore the data dynamically:**
 
-**Slicers:** Users can filter the data by date, product categories, region, and customer demographics.
+• **Slicers:** Users can filter the data by date, product categories, region, and customer demographics.
 
-**Drill-through:** Enables users to drill down into specific metrics for a deeper analysis.
+• **Drill-through:** Enables users to drill down into specific metrics for a deeper analysis.
 
-**Custom Visuals:** Unique visualizations like bar charts, pie charts, heat maps, and time-series analysis are used for an engaging experience.
+• **Custom Visuals:** Unique visualizations like bar charts, pie charts, heat maps, and time-series analysis are used for an engaging experience.
 
 ## Libraries and Tools Used:
 
-**Power BI Desktop:** The primary tool used to create and design the dashboard, including data visualization and modeling.
+• **Power BI Desktop:** The primary tool used to create and design the dashboard, including data visualization and modeling.
 
-**Kaggle Dataset:** The dataset from Kaggle used for this analysis provides the raw data for all metrics.
+• **Kaggle Dataset:** The dataset from Kaggle used for this analysis provides the raw data for all metrics.
 
-**DAX (Data Analysis Expressions):** Used for creating calculated columns and measures to derive specific business insights.
+• **DAX (Data Analysis Expressions):** Used for creating calculated columns and measures to derive specific business insights.
 
-**Power Query:** Used for data extraction, transformation, and loading (ETL) to prepare the dataset for analysis.
+• **Power Query:** Used for data extraction, transformation, and loading (ETL) to prepare the dataset for analysis.
 
 ## Key Insights and Findings:
 
