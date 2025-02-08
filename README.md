@@ -80,13 +80,13 @@ Display of essential KPIs like average order value, total revenue, customer rete
 
 ## Key Insights and Findings:
 
-**Sales Trends:** The analysis revealed certain periods of the year when Blinkit experiences higher sales, and it identified categories that consistently outperform others in terms of revenue and volume.
+1. **Sales Trends:** The analysis revealed certain periods of the year when Blinkit experiences higher sales, and it identified categories that consistently outperform others in terms of revenue and volume.
 
-**Customer Segmentation:** By analyzing customer behavior, the dashboard showed that loyal customers who make repeat purchases account for a significant portion of revenue, highlighting the importance of customer retention strategies.
+2. **Customer Segmentation:** By analyzing customer behavior, the dashboard showed that loyal customers who make repeat purchases account for a significant portion of revenue, highlighting the importance of customer retention strategies.
 
-**Delivery Optimization:** The data revealed that delivery times have a strong impact on customer satisfaction, and identifying inefficiencies in delivery routes or times can help improve operational efficiency.
+3. **Delivery Optimization:** The data revealed that delivery times have a strong impact on customer satisfaction, and identifying inefficiencies in delivery routes or times can help improve operational efficiency.
 
-**Product Performance:** Some products showed high sales volumes but low margins, suggesting the need for pricing adjustments or promotion strategies.
+4. **Product Performance:** Some products showed high sales volumes but low margins, suggesting the need for pricing adjustments or promotion strategies.
 
 ## Conclusion
 The Blinkit Dashboard built using Power BI is a valuable tool for gaining insights into the business performance of Blinkit.
@@ -100,9 +100,9 @@ This Power BI dashboard is just the beginning of a deeper analysis of Blinkit's 
 Future enhancements could include integrating machine learning models for predictive analytics, incorporating real-time data streams, or refining customer segmentation models for targeted marketing campaigns.
 
 ## How to Use:
-Clone or download the project repository.
+1. Clone or download the project repository.
 
-Open the .pbix file in Power BI Desktop.
+2. Open the .pbix file in Power BI Desktop.
 
-You can interact with the dashboard by adjusting the filters or selecting specific data points to explore deeper insights.
+3. You can interact with the dashboard by adjusting the filters or selecting specific data points to explore deeper insights.
 
