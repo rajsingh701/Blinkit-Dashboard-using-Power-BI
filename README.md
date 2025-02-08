@@ -21,7 +21,7 @@ The data used for this project is sourced from Kaggle's publicly available Blink
 
 1. **Sales Performance Analysis:**
 
-• Visualizations that display total sales, revenue over time, and sales trends by category or region.
+  • Visualizations that display total sales, revenue over time, and sales trends by category or region.
 
 • Monthly, weekly, and daily breakdowns of sales to identify peak periods and opportunities for promotions or improvements.
 
