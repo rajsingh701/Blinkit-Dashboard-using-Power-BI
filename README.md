@@ -9,13 +9,13 @@ In this project, I created a comprehensive Power BI dashboard that helps users u
 ## Data Source:
 The data used for this project is sourced from Kaggle's publicly available Blinkit dataset, which includes detailed information about:
 
-• **Orders:** Information on individual orders placed by customers.
+**• Orders:** Information on individual orders placed by customers.
 
-• **Products:** Details about various products, including category and pricing.
+**• Products:** Details about various products, including category and pricing.
 
-• **Customers:** Data about customers including their demographics and purchasing behaviors.
+**• Customers:** Data about customers including their demographics and purchasing behaviors.
 
-• **Delivery:** Insights into delivery times, completion rates, and delivery personnel performance.
+**• Delivery:** Insights into delivery times, completion rates, and delivery personnel performance.
 
 ## Key Features of the Blinkit Dashboard:
 
