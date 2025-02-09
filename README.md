@@ -19,7 +19,7 @@ The data used for this project is sourced from Kaggle's publicly available Blink
 
 ## Key Features of the Blinkit Dashboard:
 
-1. **Sales Performance Analysis:**
+**1. Sales Performance Analysis:**
 
   • Visualizations that display total sales, revenue over time, and sales trends by category or region.
 
@@ -27,7 +27,7 @@ The data used for this project is sourced from Kaggle's publicly available Blink
 
 • A geographical map to show sales distribution across different locations.
 
-2. **Customer Insights:**
+**2. Customer Insights:**
 
 • Analysis of customer demographics, including age, gender, and location.
 
@@ -35,7 +35,7 @@ The data used for this project is sourced from Kaggle's publicly available Blink
 
 • Identification of high-value customers and customer segmentation based on purchasing behavior.
 
-3. **Product Performance:**
+**3. Product Performance:**
 
 • Product-wise sales analysis, including top-performing products and categories.
 
@@ -43,19 +43,19 @@ The data used for this project is sourced from Kaggle's publicly available Blink
 
 • A dynamic filter to allow users to analyze product performance across different categories, seasons, and timeframes.
 
-4. **Delivery Insights:**
+**4. Delivery Insights:**
 
 • Metrics such as average delivery time, delivery completion rate, and the performance of different delivery personnel.
 
 • Correlation analysis between delivery time and customer satisfaction or return rates.
 
-5. **Interactive Filters and Drill-Downs:**
+**5. Interactive Filters and Drill-Downs:**
 
 • The dashboard includes interactive features like slicers and drill-down capabilities, allowing users to explore the data in more detail.
 
 • Users can filter the data by various parameters such as region, customer demographics, time period, and product categories.
 
-6. **Key Performance Indicators (KPIs):**
+**6. Key Performance Indicators (KPIs):**
 
 • Display of essential KPIs like average order value, total revenue, customer retention rates, and delivery efficiency on the dashboard for quick decision-making.
 
